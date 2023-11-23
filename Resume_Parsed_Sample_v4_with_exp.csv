@@ -1,0 +1,1164 @@
+Unnamed: 0,Skill set,google_palm_response,google_palm_response_cleaned,Experience,google_palm_response_experience
+0,"understands Mongo DB, has worked with Node Js for last 1 yr","```python
+skills = [""Mongo DB"", ""Node.js""]
+```","['mongo db', 'node.js']",1 year 1 months,1.1
+1,"Data Structure & Algorithm, OOPs, Javascript, React Js,NodeJs, ExpressJs, MongoDB, Angular, Html, CSS","```python
+skills = [
+    ""Data Structure & Algorithms"",
+    ""Object Oriented Programming"",
+    ""JavaScript"",
+    ""React.js"",
+    ""Node.js"",
+    ""Express.js"",
+    ""MongoDB"",
+    ""Angular"",
+    ""HTML"",
+    ""CSS"",
+]
+```","['data structure', 'algorithms', 'object oriented programming', 'javascript', 'react.js', 'node.js', 'express.js', 'mongodb', 'angular', 'html', 'css']",6 months of experience in MERN,0.5
+2,"Html, Front end developer,","```python
+['html', 'front end developer']
+```","['html', 'front end developer']",1 year 6 months,1.5
+3,"Java, HTML, CSS, Bootstrap, Angularjs, Typescript, Javascript, Docker, Api Gateway, Eureka, Oops Programming, Jw","```python
+skills = [
+    ""Java"",
+    ""HTML"",
+    ""CSS"",
+    ""Bootstrap"",
+    ""AngularJS"",
+    ""TypeScript"",
+    ""JavaScript"",
+    ""Docker"",
+    ""API Gateway"",
+    ""Eureka"",
+    ""OOP Programming"",
+    ""JWt"",
+]
+```","['java', 'html', 'css', 'bootstrap', 'angularjs', 'typescript', 'javascript', 'docker', 'api gateway', 'eureka', 'oop programming', 'jwt']",1 year,1.0
+4,"MERN Stack ,Bootstrap/ Material UI/Html/CSS,Next JS [ Framework of React ], SQL, JQuery, Data Structures, Git, SAAS / Tailwind","```python
+skills = [""MERN Stack"", ""Bootstrap"", ""Material UI"", ""HTML"", ""CSS"", ""Next.js"", ""SQL"", ""jQuery"", ""Data Structures"", ""Git"", ""SAAS"", ""Tailwind""]
+```","['mern stack', 'bootstrap', 'material ui', 'html', 'css', 'next.js', 'sql', 'jquery', 'data structures', 'git', 'saas', 'tailwind']",1.9Yr (MERN),1.9
+5,"NODE JS, EXPRESS JS, MONGODB, REACT JS, JAVASCRIPT, CSS, HTML","```python
+skills = [
+    ""Node.js"",
+    ""Express.js"",
+    ""MongoDB"",
+    ""React.js"",
+    ""JavaScript"",
+    ""CSS"",
+    ""HTML"",
+]
+```","['node.js', 'express.js', 'mongodb', 'react.js', 'javascript', 'css', 'html']",07 months(Internship) 02 months exp,0.95
+6,"HTML, CSS, Bootstrap, JavaScript, React.js*, Python, Express, Node.js , PostgreSQL, Mongodb.","```python
+skills = [
+    ""HTML"",
+    ""CSS"",
+    ""Bootstrap"",
+    ""JavaScript"",
+    ""React.js"",
+    ""Python"",
+    ""Express"",
+    ""Node.js"",
+    ""PostgreSQL"",
+    ""MongoDB"",
+]
+```","['html', 'css', 'bootstrap', 'javascript', 'react.js', 'python', 'express', 'node.js', 'postgresql', 'mongodb']","05months as Backend Developer, 1yr of Full stack",1.5
+7,"ReactJS-JavaScript, ES6, npm, Node Js, Express js, MongoDB , Programming language-Java, Python, Django,HTML, CSS ,JavaScript,","```python
+skills = [
+    ""ReactJS"",
+    ""JavaScript"",
+    ""ES6"",
+    ""npm"",
+    ""Node.js"",
+    ""Express.js"",
+    ""MongoDB"",
+    ""Java"",
+    ""Python"",
+    ""Django"",
+    ""HTML"",
+    ""CSS"",
+    ""JavaScript"",
+]
+```","['reactjs', 'javascript', 'es6', 'npm', 'node.js', 'express.js', 'mongodb', 'java', 'python', 'django', 'html', 'css', 'javascript']","Fresher to MERN, 1yr exp",1.0
+8,"Node Js, EXPRESS JS, MYSQL JAVASCRIPT, CSS, HTML,Git, Agile Methology","['Node.js', 'Express.js', 'MySQL', 'JavaScript', 'CSS', 'HTML', 'Git', 'Agile Methodology']","['node.js', 'express.js', 'mysql', 'javascript', 'css', 'html', 'git', 'agile methodology']","04 months full stack developer, 08 months of backend developer",1.2
+9,"Java, Data structures and algorithm, HTML/CSS,Vue Js , ReactJS, NodeJS, ExpressJS, MongoDB, SQL,
+C++, Git, GitHub , Restful Api, Spring boot, Jenkins, PostgreSQL , Design patterns","```python
+skills = [
+    ""Java"",
+    ""Data structures and algorithms"",
+    ""HTML/CSS"",
+    ""Vue.js"",
+    ""React.js"",
+    ""Node.js"",
+    ""Express.js"",
+    ""MongoDB"",
+    ""SQL"",
+    ""C++"",
+    ""Git"",
+    ""GitHub"",
+    ""Restful API"",
+    ""Spring Boot"",
+    ""Jenkins"",
+    ""PostgreSQL"",
+    ""Design patterns"",
+]
+```","['java', 'data structures and algorithms', 'html/css', 'vue.js', 'react.js', 'node.js', 'express.js', 'mongodb', 'sql', 'c++', 'git', 'github', 'restful api', 'spring boot', 'jenkins', 'postgresql', 'design patterns']","Fresher to MERN, 09month internship, 04",0.15
+10,"React, Node JS, Javascript, MongoDB, MySQL,Source control management tool(SVN , GIT and Bitbucket).","```python
+skills = [
+    ""React"",
+    ""Node.js"",
+    ""JavaScript"",
+    ""MongoDB"",
+    ""MySQL"",
+    ""Source control management tools (SVN, GIT, and Bitbucket)""
+]
+```","['react', 'node.js', 'javascript', 'mongodb', 'mysql', 'source control management tools (svn', 'git', 'and bitbucket)']",Fresher with 10 months of project experience,0.83
+11,"Programming Languages Backend E-Commerce Website(D-trendz)
+Node js
+Javascript D-trendz is an E-commerce website for selling
+C Express js shoes which has both User and Admin side.
+Deployment Tools Frontend","```python
+skills = [
+    ""Node.js"",
+    ""JavaScript"",
+    ""C"",
+    ""Express.js"",
+]
+```","['node.js', 'javascript', 'c', 'express.js']",1yrexp,1.0
+12,"HTML, Javascript, Redux.js, Express.js, Sql, CSS, React.js, Node.js, MongoDB, Git
+","```python
+skills = [
+    ""HTML"",
+    ""JavaScript"",
+    ""Redux.js"",
+    ""Express.js"",
+    ""SQL"",
+    ""CSS"",
+    ""React.js"",
+    ""Node.js"",
+    ""MongoDB"",
+    ""Git"",
+]
+```","['html', 'javascript', 'redux.js', 'express.js', 'sql', 'css', 'react.js', 'node.js', 'mongodb', 'git']",03months of course,0.03
+13,"Typescript, Node.js, MongoDB, MySQL, React
+, JavaScript, Next.js, Ionic
+, React Native, HTML & CSS, Deployment","```python
+skills = [
+    ""TypeScript"",
+    ""Node.js"",
+    ""MongoDB"",
+    ""MySQL"",
+    ""React"",
+    ""JavaScript"",
+    ""Next.js"",
+    ""Ionic"",
+    ""React Native"",
+    ""HTML & CSS"",
+    ""Deployment"",
+]
+```","['typescript', 'node.js', 'mongodb', 'mysql', 'react', 'javascript', 'next.js', 'ionic', 'react native', 'html', 'css', 'deployment']",1yr 02 months,1.06
+14,"React Js, Node Js , Next js, Express Js , Java Script , JAVA, HTML ,CSS., MongoDB, Rest-API, SQL, Docker","```python
+skills = [
+    ""React.js"",
+    ""Node.js"",
+    ""Next.js"",
+    ""Express.js"",
+    ""JavaScript"",
+    ""Java"",
+    ""HTML"",
+    ""CSS"",
+    ""MongoDB"",
+    ""REST API"",
+    ""SQL"",
+    ""Docker"",
+]
+```","['react.js', 'node.js', 'next.js', 'express.js', 'javascript', 'java', 'html', 'css', 'mongodb', 'rest api', 'sql', 'docker']",16 months of training anf currently working,0
+15,"Data Structures and Algorithms
+Web development (MEAN stack)
+NodeJS, AngularJS
+Java EE, Java Spring
+Docker
+Azure (Basics) Internet of Things (Basics) Languages: Java, Python, JavaScript.
+DBMS: Mongodb, MYSQL
+","```python
+skills = [
+    ""Data Structures and Algorithms"",
+    ""Web development (MEAN stack)"",
+    ""NodeJS"",
+    ""AngularJS"",
+    ""Java EE"",
+    ""Java Spring"",
+    ""Docker"",
+    ""Azure (Basics)"",
+    ""Internet of Things (Basics)"",
+    ""Languages: Java, Python, JavaScript"",
+    ""DBMS: Mongodb, MYSQL"",
+]
+```","['data structures and algorithms', 'web development (mean stack)', 'nodejs', 'angularjs', 'java ee', 'java spring', 'docker', 'azure (basics)', 'internet of things (basics)', 'languages: java', 'python', 'javascript', 'dbms: mongodb', 'mysql']","3rd yr engg student, with 2.5yrs of freelance work as full stack developer",2.5
+16,"Web Technologies:HTML, CSS, SASS,React, Redux,Web Server:Using Express & Nodejs,DBMS:Mongodb,Sublime Text, Visual Studio Code,Bootstrap, MUI,Programming Language :JavaScript, Typescript,GIT, GitHub, Webpack, Babel","```python
+skills = [
+    ""HTML"",
+    ""CSS"",
+    ""SASS"",
+    ""React"",
+    ""Redux"",
+    ""Express"",
+    ""Nodejs"",
+    ""MongoDB"",
+    ""Sublime Text"",
+    ""Visual Studio Code"",
+    ""Bootstrap"",
+    ""MUI"",
+    ""JavaScript"",
+    ""TypeScript"",
+    ""GIT"",
+    ""GitHub"",
+    ""Webpack"",
+    ""Babel"",
+]
+```","['html', 'css', 'sass', 'react', 'redux', 'express', 'nodejs', 'mongodb', 'sublime text', 'visual studio code', 'bootstrap', 'mui', 'javascript', 'typescript', 'git', 'github', 'webpack', 'babel']",2yrs Web developer in infosys currently working,2.0
+17,"Frontend : HTML, CSS, Bootstrap, JavaScript, React.jsBackend : Python, Express.js, Node.jsDatabases : SQLite BAckend :Nav Forces","```python
+frontend_skills = [""HTML"", ""CSS"", ""Bootstrap"", ""JavaScript"", ""React.js""]
+backend_skills = [""Python"", ""Express.js"", ""Node.js""]
+database_skills = [""SQLite""]
+
+skills = frontend_skills + backend_skills + database_skills
+
+print(skills)
+```
+
+```
+['HTML', 'CSS', 'Bootstrap', 'JavaScript', 'React.js', 'Python', 'Express.js', 'Node.js', 'SQLite']
+```","['html', 'css', 'bootstrap', 'javascript', 'react.js']","1yr of Frontend Developer in IGO Technologies,as of now learning skill set programs.",1.0
+18,"React js ,Node js ,TypeScript , Redux , Express Js ,MongoDb ,Socket.io ,JWT ,Cloudinary ,Mongoose ,Axios , AWS S3 ,AWSEC2 ,AWS Route 53, Ngnix, Certbot, Nodemailer","```python
+skills = [
+    ""React.js"",
+    ""Node.js"",
+    ""TypeScript"",
+    ""Redux"",
+    ""Express.js"",
+    ""MongoDB"",
+    ""Socket.io"",
+    ""JSON Web Token (JWT)"",
+    ""Cloudinary"",
+    ""Mongoose"",
+    ""Axios"",
+    ""Amazon Simple Storage Service (S3)"",
+    ""Amazon Elastic Compute Cloud (EC2)"",
+    ""Amazon Route 53"",
+    ""Nginx"",
+    ""Certbot"",
+    ""Nodemailer"",
+]
+```","['react.js', 'node.js', 'typescript', 'redux', 'express.js', 'mongodb', 'socket.io', 'json web token (jwt)', 'cloudinary', 'mongoose', 'axios', 'amazon simple storage service (s3)', 'amazon elastic compute cloud (ec2)', 'amazon route 53', 'nginx', 'certbot', 'nodemailer']","Completed +2,and working as a trainee in prototype project.Currently Working",0.5
+19,"Front End: React Js, Next Js, Javascript ES6, TailwindCSS, Material UI, CSS, HTML5, Bootstrap,Axios, HBS, Chart.js, Redux Toolkit, JQuery. Back End: Node Js, Express Js, MongoDB,Atlas, Mongoose, JWT, NPM, REST API,Socket io.","```python
+front_end_skills = [
+    ""React Js"",
+    ""Next Js"",
+    ""Javascript ES6"",
+    ""TailwindCSS"",
+    ""Material UI"",
+    ""CSS"",
+    ""HTML5"",
+    ""Bootstrap"",
+    ""Axios"",
+    ""HBS"",
+    ""Chart.js"",
+    ""Redux Toolkit"",
+    ""JQuery"",
+]
+
+back_end_skills = [
+    ""Node Js"",
+    ""Express Js"",
+    ""MongoDB"",
+    ""Atlas"",
+    ""Mongoose"",
+    ""JWT"",
+    ""NPM"",
+    ""REST API"",
+    ""Socket io"",
+]
+
+skills = front_end_skills + back_end_skills
+```","['react js', 'next js', 'javascript es6', 'tailwindcss', 'material ui', 'css', 'html5', 'bootstrap', 'axios', 'hbs', 'chart.js', 'redux toolkit', 'jquery']","8 month Trainee in Prototype, done 2 projects: E-commerce,Jackpot.currently working,also well at java scripts",0.75
+20,"Frontend: HTML, CSS, Javascript, React.Js,Redux,OOPs, Node.Js Frame Work:Material UI, Bootstrap, NextJsDatabase : MongoDB.Software Skills:VS COde,NPM,Git,Firebase,Netlify,Vercel.","```python
+frontend_skills = [""HTML"", ""CSS"", ""JavaScript"", ""React.js"", ""Redux"", ""OOPs"", ""Node.js""]
+framework_skills = [""Material UI"", ""Bootstrap"", ""Next.js""]
+database_skills = [""MongoDB""]
+software_skills = [""VS Code"", ""NPM"", ""Git"", ""Firebase"", ""Netlify"", ""Vercel""]
+
+skills = frontend_skills + framework_skills + database_skills + software_skills
+
+print(skills)
+```
+
+```
+['HTML', 'CSS', 'JavaScript', 'React.js', 'Redux', 'OOPs', 'Node.js', 'Material UI', 'Bootstrap', 'Next.js', 'MongoDB', 'VS Code', 'NPM', 'Git', 'Firebase', 'Netlify', 'Vercel']
+```","['html', 'css', 'javascript', 'react.js', 'redux', 'oops', 'node.js']",,0
+21,"HTML CSS Javascript React ReduxTailwind Node/Express Linux Mongodb,MySQL Postgresql NextJs Git, GitHub,API","```python
+skills = [
+    ""HTML"",
+    ""CSS"",
+    ""JavaScript"",
+    ""React"",
+    ""Redux"",
+    ""Tailwind"",
+    ""Node.js/Express"",
+    ""Linux"",
+    ""MongoDB"",
+    ""MySQL"",
+    ""PostgreSQL"",
+    ""Next.js"",
+    ""Git"",
+    ""GitHub"",
+    ""API"",
+]
+```","['html', 'css', 'javascript', 'react', 'redux', 'tailwind', 'node.js/express', 'linux', 'mongodb', 'mysql', 'postgresql', 'next.js', 'git', 'github', 'api']","Fresher, end of the April will Complete his Graduation,Has Knowledge in Both Frontend And Backend",0.0
+22,Node js | Express | Mongo DB | Javascript | Html | EJS | CSS |Bootstrap | Ajax | API integrations for online payment (Stripe) |Nginx | AWS,"```python
+skills = [
+    ""Node.js"",
+    ""Express"",
+    ""MongoDB"",
+    ""JavaScript"",
+    ""HTML"",
+    ""EJS"",
+    ""CSS"",
+    ""Bootstrap"",
+    ""Ajax"",
+    ""API integrations for online payment (Stripe)"",
+    ""Nginx"",
+    ""AWS"",
+]
+```","['node.js', 'express', 'mongodb', 'javascript', 'html', 'ejs', 'css', 'bootstrap', 'ajax', 'api integrations for online payment (stripe)', 'nginx', 'aws']","9+ months has experience in MERN,7 months worked as a trainee in prototype,now currently Working on his brother 's project(Marketing) using Mern.",1.57
+23,"Front end:Html,CSS,BootStrap,Java Script,React js,Redux BAck end: Node js,Express js, Mongo DD,MySql,MVC","```python
+front_end = [""HTML"", ""CSS"", ""Bootstrap"", ""JavaScript"", ""React"", ""Redux""]
+back_end = [""Node.js"", ""Express.js"", ""MongoDB"", ""MySQL"", ""MVC""]
+
+skills = front_end + back_end
+```","['html', 'css', 'bootstrap', 'javascript', 'react', 'redux']","Fresher,Currently working as Intern in Skills Academy",0.5
+24,HTML | CSS | JavaScript |ReactJs | NextJs | TypeScript |NodeJs | MongoDB | ExpressJs |Mongoose | Cypress | Git |Redux | Postman | Json-server |JWT | Authentication,"```python
+skills = [
+    ""HTML"",
+    ""CSS"",
+    ""JavaScript"",
+    ""ReactJS"",
+    ""NextJS"",
+    ""TypeScript"",
+    ""NodeJS"",
+    ""MongoDB"",
+    ""ExpressJS"",
+    ""Mongoose"",
+    ""Cypress"",
+    ""Git"",
+    ""Redux"",
+    ""Postman"",
+    ""Json-server"",
+    ""JWT"",
+    ""Authentication"",
+]
+```","['html', 'css', 'javascript', 'reactjs', 'nextjs', 'typescript', 'nodejs', 'mongodb', 'expressjs', 'mongoose', 'cypress', 'git', 'redux', 'postman', 'json-server', 'jwt', 'authentication']","Fresher,no intern experience",0.0
+25,"Frontend:React Js,HTML,CSS,Bootstrap,MUITailwind ,CSS.
+Backend:Node Js,Express Js,Database,MongoDB,MySql.
+Languages:JavaScript,TypeScript,Java,C,C++,Python.
+Others:AWS,Git & GitHub,NginX,Figma","```python
+skills = [
+    ""Frontend: React Js, HTML, CSS, Bootstrap, MUI, Tailwind, CSS"",
+    ""Backend: Node Js, Express Js, Database, MongoDB, MySql"",
+    ""Languages: JavaScript, TypeScript, Java, C, C++, Python"",
+    ""Others: AWS, Git & GitHub, NginX, Figma"",
+]
+```","['frontend: react js', 'html', 'css', 'bootstrap', 'mui', 'tailwind', 'css', 'backend: node js', 'express js', 'database', 'mongodb', 'mysql', 'languages: javascript', 'typescript', 'java', 'c', 'c++', 'python', 'others: aws', 'git', 'github', 'nginx', 'figma']","Fresher,9 months internship done in Prototype",0.75
+26,"front end: React.js , Redux , html,Javascript and css. Back end :Node.js , Express and Mongo DB.","```python
+front_end = ['react', 'redux', 'html', 'javascript', 'css']
+back_end = ['nodejs', 'express', 'mongodb']
+
+skills = front_end + back_end
+```","['react', 'redux', 'html', 'javascript', 'css']",8 months experience in 3 Full stack projects,1.06
+27,"React JS,Mongo DB,Express JS,Node js,Rest API,Redux,Router,Material UI,GitHub,Python,Java Scrip","```python
+skills = [
+    ""React JS"",
+    ""MongoDB"",
+    ""Express JS"",
+    ""Node.js"",
+    ""REST API"",
+    ""Redux"",
+    ""Router"",
+    ""Material UI"",
+    ""GitHub"",
+    ""Python"",
+    ""JavaScript""
+]
+```","['react js', 'mongodb', 'express js', 'node.js', 'rest api', 'redux', 'router', 'material ui', 'github', 'python', 'javascript']",,0
+28,"NodeJS,ReactJS,ExperssJS,MongoDb,Mongoose,Data Structure,Redux,MUI,Bootstrap,HTML5,Git & GitHub,SQL,AWS,Nginx,REST API,Firebase,Postman,JWT,","```python
+skills = [
+    ""NodeJS"",
+    ""ReactJS"",
+    ""ExpressJS"",
+    ""MongoDB"",
+    ""Mongoose"",
+    ""Data Structures"",
+    ""Redux"",
+    ""MUI"",
+    ""Bootstrap"",
+    ""HTML5"",
+    ""Git & GitHub"",
+    ""SQL"",
+    ""AWS"",
+    ""Nginx"",
+    ""REST API"",
+    ""Firebase"",
+    ""Postman"",
+    ""JWT"",
+]
+```","['nodejs', 'reactjs', 'expressjs', 'mongodb', 'mongoose', 'data structures', 'redux', 'mui', 'bootstrap', 'html5', 'git', 'github', 'sql', 'aws', 'nginx', 'rest api', 'firebase', 'postman', 'jwt']",completed 8Months of trainee in Prototype.currently not working,0.75
+29,"Programming Languages: JavaScript, HTML/CSSTech Stack: Front-End: ReactJS, NextJS, TypeScriptTech Stack: Back-End: NodeJS, ExpressJS, Mongo DB,SQL","```python
+skills = [
+    ""JavaScript"",
+    ""HTML/CSS"",
+    ""ReactJS"",
+    ""NextJS"",
+    ""TypeScript"",
+    ""NodeJS"",
+    ""ExpressJS"",
+    ""MongoDB"",
+    ""SQL"",
+]
+```","['javascript', 'html/css', 'reactjs', 'nextjs', 'typescript', 'nodejs', 'expressjs', 'mongodb', 'sql']",completed 8Months of intern and1 yr of experience in techo company.currently working,1.8
+30,ReactJs | Angular | MongodbExpress | NodeJs | Github |HTML | CSS | API,"```python
+skills = [""ReactJs"", ""Angular"", ""MongoDB"", ""Express"", ""NodeJs"", ""Github"", ""HTML"", ""CSS"", ""API""]
+```","['reactjs', 'angular', 'mongodb', 'express', 'nodejs', 'github', 'html', 'css', 'api']","Fresher,Completed 5Months Training in MERN",0.1
+31,"Database -MongoDB,Frameworks -React.js with Redux Toolkit, Express.js,Mongoose, Angular.js,UI Technologies- HTML5, CSS3, JavaScript, Bootstrap,APIs and Tools- RestAPI, AJAX(Axios, Fetch API), Postman,Programming -Javascript, TypeScript, C++,Server- Node.js,Operating System -Windows 7/8/8.1/10, Ubuntu.","```python
+skills = [
+    ""Database: MongoDB"",
+    ""Frameworks: React.js with Redux Toolkit, Express.js, Mongoose, Angular.js"",
+    ""UI Technologies: HTML5, CSS3, JavaScript, Bootstrap"",
+    ""APIs and Tools: RestAPI, AJAX(Axios, Fetch API), Postman"",
+    ""Programming: Javascript, TypeScript, C++"",
+    ""Server: Node.js"",
+    ""Operating System: Windows 7/8/8.1/10, Ubuntu""
+]
+```","['database: mongodb', 'frameworks: react.js with redux toolkit', 'express.js', 'mongoose', 'angular.js', 'ui technologies: html5', 'css3', 'javascript', 'bootstrap', 'apis and tools: restapi', 'ajax(axios', 'fetch api)', 'postman', 'programming: javascript', 'typescript', 'c++', 'server: node.js', 'operating system: windows 7/8/8.1/10', 'ubuntu']","Fresher,Completed 6Months intern in Sterio info tech.",0.5
+32,"JavaScriptNode JsExpress JsReact JsReduxMongoDBHTMLCSSBootstrapPostmanFirebaseAWSNginxPostgreSQLGIT, GITHUBJWTFigmaData structure","```python
+skills = [
+    ""JavaScript"",
+    ""Node.js"",
+    ""Express.js"",
+    ""React.js"",
+    ""Redux"",
+    ""MongoDB"",
+    ""HTML"",
+    ""CSS"",
+    ""Bootstrap"",
+    ""Postman"",
+    ""Firebase"",
+    ""AWS"",
+    ""Nginx"",
+    ""PostgreSQL"",
+    ""GIT"",
+    ""GitHub"",
+    ""JWT"",
+    ""Figma"",
+    ""Data structures"",
+]
+```","['javascript', 'node.js', 'express.js', 'react.js', 'redux', 'mongodb', 'html', 'css', 'bootstrap', 'postman', 'firebase', 'aws', 'nginx', 'postgresql', 'git', 'github', 'jwt', 'figma', 'data structures']","Fresher,6Months of Training, Currently Working As intern in prototype",0.5
+33,"JavaScript,Node Js,Express Js,Mongo Db,React Js,EJS,HTML,CSSBootstrap,TailWind CSS,AWS,Nginx,Basic of C programing,Basic of C++ programing,Basic of Java programing,Basic of Python","```python
+skills = [
+    ""JavaScript"",
+    ""Node.js"",
+    ""Express.js"",
+    ""MongoDB"",
+    ""React.js"",
+    ""EJS"",
+    ""HTML"",
+    ""CSS"",
+    ""Bootstrap"",
+    ""Tailwind CSS"",
+    ""AWS"",
+    ""Nginx"",
+    ""C programming"",
+    ""C++ programming"",
+    ""Java programming"",
+    ""Python programming"",
+]
+```","['javascript', 'node.js', 'express.js', 'mongodb', 'react.js', 'ejs', 'html', 'css', 'bootstrap', 'tailwind css', 'aws', 'nginx', 'c programming', 'c++ programming', 'java programming', 'python programming']",2yrs as stock manager in banglore,2.0
+34,"HTML5 & CSS3,Bootstrap 5, Java Script ES6,React js,Node js & Exp js, Python,Mongo DB & SQL, Desigining Thinking,UX,Restful ApIs,SEO,Agile & Scrum.","```python
+skills = [
+    ""HTML5 & CSS3"",
+    ""Bootstrap 5"",
+    ""JavaScript ES6"",
+    ""React.js"",
+    ""Node.js & Express.js"",
+    ""Python"",
+    ""MongoDB & SQL"",
+    ""Designing Thinking"",
+    ""UX"",
+    ""RESTful APIs"",
+    ""SEO"",
+    ""Agile & Scrum"",
+]
+```","['html5', 'css3', 'bootstrap 5', 'javascript es6', 'react.js', 'node.js', 'express.js', 'python', 'mongodb', 'sql', 'designing thinking', 'ux', 'restful apis', 'seo', 'agile', 'scrum']",9Months,0.75
+35,"HTML ,CSS ,JAVASCRIPT ,REACT JS,NODE JS ,EXPRESS JS, MONGODB,MYSQL ,MICROSERVICES ,SWAGGER,AWS-LAMBDA","```python
+['html', 'css', 'javascript', 'react js', 'node js', 'express js', 'mongodb', 'mysql', 'microservices', 'swagger', 'aws-lambda']
+```","['html', 'css', 'javascript', 'react js', 'node js', 'express js', 'mongodb', 'mysql', 'microservices', 'swagger', 'aws-lambda']",6Months Intern Completed,0.5
+36,"React JS,JavaScript ES6,BOOTSTRAP,HTML - CSS3,UTILIZING REACT LIBRARIESMATERIAL UI,UI KIT GITHUB,REDUX,NODE JS,MONGO DB,MYSQL,EXPRESS JS,JWTTOKEN.","```python
+skills = [
+    ""React JS"",
+    ""JavaScript ES6"",
+    ""Bootstrap"",
+    ""HTML - CSS3"",
+    ""Utilizing React libraries (Material UI, UI Kit GitHub)"",
+    ""Redux"",
+    ""Node JS"",
+    ""MongoDB"",
+    ""MySQL"",
+    ""Express JS"",
+    ""JWT Token"",
+]
+```","['react js', 'javascript es6', 'bootstrap', 'html - css3', 'utilizing react libraries (material ui', 'ui kit github)', 'redux', 'node js', 'mongodb', 'mysql', 'express js', 'jwt token']",,0
+37,"Programming language -- Java, Javascript,Python.Frontend --React js.Backend--Node js.Good hands-on HTML, CSS(SCSS).Databases -- MySQL, MongoDb.Bootstrap,MaterialUI to design the web page,OOPS","```python
+skills = [
+    ""Programming language: Java, JavaScript, Python"",
+    ""Frontend: React js"",
+    ""Backend: Node js"",
+    ""HTML, CSS(SCSS)"",
+    ""Databases: MySQL, MongoDb"",
+    ""Bootstrap, MaterialUI"",
+    ""OOPS"",
+]
+```","['programming language: java', 'javascript', 'python', 'frontend: react js', 'backend: node js', 'html', 'css(scss)', 'databases: mysql', 'mongodb', 'bootstrap', 'materialui', 'oops']",Fresher for IT Sector 6Months of intern yet to Complete,0.5
+38,"React JS,Node JS,JavaScript,Next JS,Git,MongoDB","```python
+skills = [""React JS"", ""Node JS"", ""JavaScript"", ""Next JS"", ""Git"", ""MongoDB""]
+```","['react js', 'node js', 'javascript', 'next js', 'git', 'mongodb']",8 months currently working,0.94
+39,"REACTJS, MONGODB, NODEJS,EXPRESSJS, GIT ,DATA STRUCTURES,AWS EC2, TYPESCRIPT, REST ,API, MYSQL,FIREBASE, FIGMA, MATERIAL UI, NGINX,PYTHON, JAVASCRIPT, MONGOOSE,SOCKET IO, MICROSERVICE.","```python
+skills = [
+    ""ReactJS"",
+    ""MongoDB"",
+    ""NodeJS"",
+    ""ExpressJS"",
+    ""Git"",
+    ""Data Structures"",
+    ""AWS EC2"",
+    ""TypeScript"",
+    ""REST API"",
+    ""MySQL"",
+    ""Firebase"",
+    ""Figma"",
+    ""Material UI"",
+    ""NGINX"",
+    ""Python"",
+    ""JavaScript"",
+    ""Mongoose"",
+    ""Socket.IO"",
+    ""Microservices"",
+]
+```","['reactjs', 'mongodb', 'nodejs', 'expressjs', 'git', 'data structures', 'aws ec2', 'typescript', 'rest api', 'mysql', 'firebase', 'figma', 'material ui', 'nginx', 'python', 'javascript', 'mongoose', 'socket.io', 'microservices']",9Months,0.75
+40,"HTML , CSS , JavaScript , ReactJs ,Redux , UI/UX ,Git , GitHub , API ,JSON , Tailwind CSS , Chakra UI , MUI, Bootstrap , DSA , SEO.","```python
+skills = [
+    ""HTML"",
+    ""CSS"",
+    ""JavaScript"",
+    ""ReactJS"",
+    ""Redux"",
+    ""UI/UX"",
+    ""Git"",
+    ""GitHub"",
+    ""API"",
+    ""JSON"",
+    ""Tailwind CSS"",
+    ""Chakra UI"",
+    ""MUI"",
+    ""Bootstrap"",
+    ""DSA"",
+    ""SEO"",
+]
+```","['html', 'css', 'javascript', 'reactjs', 'redux', 'ui/ux', 'git', 'github', 'api', 'json', 'tailwind css', 'chakra ui', 'mui', 'bootstrap', 'dsa', 'seo']",1Yrs,1.0
+41,DEVELOPMENT (• React Js• Hooks• Redux• webpack• Redux thunk• Sass• Css• Node Js• Express Js• Jwt• Bootstrap• bcrypt)DATABASES(• MongoDBDEVOPS• Render• Cyclic)DESIGN TOOL(• FigmaEDUCA),"```python
+skills = [
+    ""React Js"",
+    ""Hooks"",
+    ""Redux"",
+    ""webpack"",
+    ""Redux thunk"",
+    ""Sass"",
+    ""Css"",
+    ""Node Js"",
+    ""Express Js"",
+    ""Jwt"",
+    ""Bootstrap"",
+    ""bcrypt"",
+    ""MongoDB"",
+    ""Render"",
+    ""Cyclic"",
+    ""Figma""
+]
+```","['react js', 'hooks', 'redux', 'webpack', 'redux thunk', 'sass', 'css', 'node js', 'express js', 'jwt', 'bootstrap', 'bcrypt', 'mongodb', 'render', 'cyclic', 'figma']",1yrs,1.0
+42,"React js,Tailwind, css,Next.js,Typescript,Javascript,Bootstrap,Vuejs,Express js,Python.","```python
+['react js', 'tailwind', 'css', 'next.js', 'typescript', 'javascript', 'bootstrap', 'vuejs', 'express js', 'python']
+```","['react js', 'tailwind', 'css', 'next.js', 'typescript', 'javascript', 'bootstrap', 'vuejs', 'express js', 'python']",1yrs,1.0
+43,"CSS,HTML,Java Script,Typescript,&Python,JSX,Java Script Fundamentals+Es6, React js,Node js,Express js,mongo DB,Oracle SQL,&React Native,NPM,Yarn,Redux,GitHub&Gitlab Respiratory,","```python
+skills = [
+    ""CSS"",
+    ""HTML"",
+    ""JavaScript"",
+    ""TypeScript"",
+    ""Python"",
+    ""JSX"",
+    ""JavaScript Fundamentals + ES6"",
+    ""React.js"",
+    ""Node.js"",
+    ""Express.js"",
+    ""MongoDB"",
+    ""Oracle SQL"",
+    ""React Native"",
+    ""NPM"",
+    ""Yarn"",
+    ""Redux"",
+    ""GitHub"",
+    ""Gitlab"",
+    ""Respiratory"",
+]
+```","['css', 'html', 'javascript', 'typescript', 'python', 'jsx', 'javascript fundamentals + es6', 'react.js', 'node.js', 'express.js', 'mongodb', 'oracle sql', 'react native', 'npm', 'yarn', 'redux', 'github', 'gitlab', 'respiratory']",1.5yrs,1.5
+44,"JAVA, C,MySQL,HTML, CSS, JS, NodeJS,JAVA, Git,Netbeans,FIgma,","```python
+skills = [
+    ""JAVA"",
+    ""C"",
+    ""MySQL"",
+    ""HTML"",
+    ""CSS"",
+    ""JS"",
+    ""NodeJS"",
+    ""JAVA"",
+    ""Git"",
+    ""Netbeans"",
+    ""FIgma"",
+]
+```","['java', 'c', 'mysql', 'html', 'css', 'js', 'nodejs', 'java', 'git', 'netbeans', 'figma']","Fresher,intern-6months",0.5
+45,"React JS, Node JS,Express JS, Mongo DB,ExpressJS,NPM, GIT, Heroku, Web Sockets,Socket.io, ES6, JavaScript, Bootstrap, CSS3, HTML5, Ajax JSON.","```python
+skills = [
+    ""React JS"",
+    ""Node JS"",
+    ""Express JS"",
+    ""MongoDB"",
+    ""ExpressJS"",
+    ""NPM"",
+    ""GIT"",
+    ""Heroku"",
+    ""WebSockets"",
+    ""Socket.io"",
+    ""ES6"",
+    ""JavaScript"",
+    ""Bootstrap"",
+    ""CSS3"",
+    ""HTML5"",
+    ""Ajax"",
+    ""JSON"",
+]
+```","['react js', 'node js', 'express js', 'mongodb', 'expressjs', 'npm', 'git', 'heroku', 'websockets', 'socket.io', 'es6', 'javascript', 'bootstrap', 'css3', 'html5', 'ajax', 'json']",1.3yrs,1.3
+46,HTML• CSS • BootStrapC#• C • Java • JavaScriptJQuery• Rest API •SQLLIBRARIES/FRAMEWORKSReact • Node.js • Express.js •Asp.Net • Jquery • ReduxTOOLS/PLATFORMSGit • VS code • Atom • NPMPostman • MongoDBMISCELLANEOUSShell • LaTeX • Tableau • MicrosoftOffice • Firebase,"```python
+skills = [
+    ""HTML"",
+    ""CSS"",
+    ""Bootstrap"",
+    ""C#"",
+    ""C"",
+    ""Java"",
+    ""JavaScript"",
+    ""jQuery"",
+    ""Rest API"",
+    ""SQL"",
+    ""React"",
+    ""Node.js"",
+    ""Express.js"",
+    ""Asp.Net"",
+    ""Jquery"",
+    ""Redux"",
+    ""Git"",
+    ""VS code"",
+    ""Atom"",
+    ""NPM"",
+    ""Postman"",
+    ""MongoDB"",
+    ""Shell"",
+    ""LaTeX"",
+    ""Tableau"",
+    ""Microsoft Office"",
+    ""Firebase"",
+]
+```","['html', 'css', 'bootstrap', 'c#', 'c', 'java', 'javascript', 'jquery', 'rest api', 'sql', 'react', 'node.js', 'express.js', 'asp.net', 'jquery', 'redux', 'git', 'vs code', 'atom', 'npm', 'postman', 'mongodb', 'shell', 'latex', 'tableau', 'microsoft office', 'firebase']",1.7yrs,1.7
+47,"HTML5,CSS3,Bootstrap,Javascript,Node js,React js,Mongo DB,C,Core Java,ECMA Script,Data Structure","['HTML5', 'CSS3', 'Bootstrap', 'JavaScript', 'Node.js', 'React.js', 'MongoDB', 'C', 'Core Java', 'ECMAScript', 'Data Structures']","['html5', 'css3', 'bootstrap', 'javascript', 'node.js', 'react.js', 'mongodb', 'c', 'core java', 'ecmascript', 'data structures']",,0
+48,"BACKEND :NODEJS ( EXPRESS JS )FRONTEND :HTML, CSS, JS, REACT JS,NEXT JSDATABASE :MongoDB ,MYSQLVERSION CONTROL : GITORM :PRISMA ,SEQUELIZEMONGOOSECODE EDITOR : VSCODEPROTOTYPE : FIGMA","```python
+backend_skills = [""nodejs"", ""expressjs""]
+frontend_skills = [""html"", ""css"", ""js"", ""reactjs"", ""nextjs""]
+database_skills = [""mongodb"", ""mysql""]
+version_control_skills = [""git""]
+orm_skills = [""prisma"", ""sequelize"", ""mongoose""]
+code_editor_skills = [""vscode""]
+prototype_skills = [""figma""]
+
+skills = [backend_skills, frontend_skills, database_skills, version_control_skills, orm_skills, code_editor_skills, prototype_skills]
+```","['nodejs', 'expressjs']",2yrs in Full Stack,2.0
+49,"html,Css,Javascript,Nodejs,Mysql,Mongodb,Mongoose,Reactjs,Expressjs","```python
+['html', 'css', 'javascript', 'nodejs', 'mysql', 'mongodb', 'mongoose', 'reactjs', 'expressjs']
+```","['html', 'css', 'javascript', 'nodejs', 'mysql', 'mongodb', 'mongoose', 'reactjs', 'expressjs']",,0
+50,"HTML, CSS, JavaScript, React JS, Bootstrap, ReactNative,NativeFULL STACK:MERN (MongoDB, Express JS, React JS, Node JS)","```python
+skills = [
+    ""HTML"",
+    ""CSS"",
+    ""JavaScript"",
+    ""React JS"",
+    ""Bootstrap"",
+    ""ReactNative"",
+    ""Native"",
+    ""MongoDB"",
+    ""Express JS"",
+    ""React JS"",
+    ""Node JS"",
+]
+```","['html', 'css', 'javascript', 'react js', 'bootstrap', 'reactnative', 'native', 'mongodb', 'express js', 'react js', 'node js']",Intern for 6months Currently working.,0.5
+51,JAVA• JAVASCRIPT• REACT JS• MONGODB• HTML5• CSS3• SQL,"```python
+skills = [""Java"", ""JavaScript"", ""React JS"", ""MongoDB"", ""HTML5"", ""CSS3"", ""SQL""]
+```","['java', 'javascript', 'react js', 'mongodb', 'html5', 'css3', 'sql']",Currently learning skills,0.0
+52,"JavaScript,Express-JSNode-JS,React-JS,Redux,MongoDB,MySQL,HTML,CSS/Sass,Postgresql,Handlebars ,View-engine,Material, UIGitAWS,Nginx,Figma,Firebase,JWT,Rest API,Postman.","```python
+skills = [
+    ""JavaScript"",
+    ""Express.JS"",
+    ""Node.JS"",
+    ""React.JS"",
+    ""Redux"",
+    ""MongoDB"",
+    ""MySQL"",
+    ""HTML"",
+    ""CSS/Sass"",
+    ""PostgreSQL"",
+    ""Handlebars"",
+    ""View engine"",
+    ""Material UI"",
+    ""Git"",
+    ""AWS"",
+    ""Nginx"",
+    ""Figma"",
+    ""Firebase"",
+    ""JWT"",
+    ""REST API"",
+    ""Postman"",
+]
+```","['javascript', 'express.js', 'node.js', 'react.js', 'redux', 'mongodb', 'mysql', 'html', 'css/sass', 'postgresql', 'handlebars', 'view engine', 'material ui', 'git', 'aws', 'nginx', 'figma', 'firebase', 'jwt', 'rest api', 'postman']",Intern-1yrs,1.0
+53,• MongoDB • Express • React • Node • Redux • Mysql • Git • Figma,"```python
+skills = [
+    ""MongoDB"",
+    ""Express"",
+    ""React"",
+    ""Node"",
+    ""Redux"",
+    ""MySQL"",
+    ""Git"",
+    ""Figma"",
+]
+```","['mongodb', 'express', 'react', 'node', 'redux', 'mysql', 'git', 'figma']","Fresher,Currently Working as Intern-8 Months",0.75
+54,"C, C++,Html,Css,Bootstrap,Tailwind,Javascript,Reactjs,Nodejs,Mongodb(Basics),Sql(Basics)Tools :Virtual Studio Code(Web)","```python
+skills = [
+    ""C"",
+    ""C++"",
+    ""HTML"",
+    ""CSS"",
+    ""Bootstrap"",
+    ""Tailwind"",
+    ""JavaScript"",
+    ""ReactJS"",
+    ""NodeJS"",
+    ""MongoDB (basics)"",
+    ""SQL (basics)"",
+    ""Virtual Studio Code (Web)"",
+]
+```","['c', 'c++', 'html', 'css', 'bootstrap', 'tailwind', 'javascript', 'reactjs', 'nodejs', 'mongodb (basics)', 'sql (basics)', 'virtual studio code (web)']","Fresher,Currently Working as Intern-6 Months",0.5
+55," Android Development (Flutter) Web Development Stacks ( MEAN and MERN) Database Technology ( MySQL, MongoDB) JavaScript & JS Frameworks ( Angular, React) Basic UI/UX Design ( Figma ) Back End Codes ( Node.JS)","```python
+skills = [
+    ""Android Development (Flutter)"",
+    ""Web Development Stacks (MEAN and MERN)"",
+    ""Database Technology (MySQL, MongoDB)"",
+    ""JavaScript & JS Frameworks (Angular, React)"",
+    ""Basic UI/UX Design (Figma)"",
+    ""Back End Codes (Node.JS)"",
+]
+```","['android development (flutter)', 'web development stacks (mean and mern)', 'database technology (mysql', 'mongodb)', 'javascript', 'js frameworks (angular', 'react)', 'basic ui/ux design (figma)', 'back end codes (node.js)']","3yrs,1.5yrs on MERN",4.5
+56,"Frontend Frameworks : ReactJS,Languages/Programming Area : NodeJS, ExpressJS,Database Environment : My SQL, MongoDB,Web Technologies : HTML5, CSS3, Bootstrap5,OS : Windows,IDE : Visual studio code,Version Control Tools : Git","```python
+skills = [
+    ""Frontend Frameworks: ReactJS"",
+    ""Languages/Programming Area: NodeJS, ExpressJS"",
+    ""Database Environment: MySQL, MongoDB"",
+    ""Web Technologies: HTML5, CSS3, Bootstrap5"",
+    ""OS: Windows"",
+    ""IDE: Visual Studio Code"",
+    ""Version Control Tools: Git"",
+]
+```","['frontend frameworks: reactjs', 'languages/programming area: nodejs', 'expressjs', 'database environment: mysql', 'mongodb', 'web technologies: html5', 'css3', 'bootstrap5', 'os: windows', 'ide: visual studio code', 'version control tools: git']","Mind made(MErn Full Stack)-1.5Yrs,Cognizant Chennai(as tester)->6months",2.1
+57,"HTML5,CSS3,React JS,Node JS and Express JS,API Handling and Integration,Visual Studio,Windows 7/10","```python
+skills = [
+    ""HTML5"",
+    ""CSS3"",
+    ""React JS"",
+    ""Node JS"",
+    ""Express JS"",
+    ""API Handling and Integration"",
+    ""Visual Studio"",
+    ""Windows 7/10"",
+]
+```","['html5', 'css3', 'react js', 'node js', 'express js', 'api handling and integration', 'visual studio', 'windows 7/10']",1Yr,1.0
+58,"Front End:HTML,CSS,Jquery and Javascript;Database:MYSQL;BackEnd:PHP,Nodejs;Frameworks:Bootstrap, Laravel and Handlebarsjs","```python
+skills = [""HTML"", ""CSS"", ""JQuery"", ""JavaScript"", ""MySQL"", ""PHP"", ""Node.js"", ""Bootstrap"", ""Laravel"", ""Handlebars.js""]
+```","['html', 'css', 'jquery', 'javascript', 'mysql', 'php', 'node.js', 'bootstrap', 'laravel', 'handlebars.js']",2.8yrs,2.8
+59,"Java Script,Node.js,React.js,Express.js,MongoDB,Postgresql,Redux-ToolkitGit & GitHubRest ,APIs,Nginx,HTML5,CSS3,Bootstrap 5,Figma,Photoshop","```python
+skills = [
+    ""JavaScript"",
+    ""Node.js"",
+    ""React.js"",
+    ""Express.js"",
+    ""MongoDB"",
+    ""PostgreSQL"",
+    ""Redux Toolkit"",
+    ""Git & GitHub"",
+    ""REST APIs"",
+    ""Nginx"",
+    ""HTML5"",
+    ""CSS3"",
+    ""Bootstrap 5"",
+    ""Figma"",
+    ""Photoshop"",
+]
+```","['javascript', 'node.js', 'react.js', 'express.js', 'mongodb', 'postgresql', 'redux toolkit', 'git', 'github', 'rest apis', 'nginx', 'html5', 'css3', 'bootstrap 5', 'figma', 'photoshop']","Fresher,Intern 10 months",0.1
+60,"React,Redux,Java script,Node js,HTML,CSS,Mongo DB,","```python
+skills = [""React"", ""Redux"", ""JavaScript"", ""Node.js"", ""HTML"", ""CSS"", ""MongoDB""]
+```","['react', 'redux', 'javascript', 'node.js', 'html', 'css', 'mongodb']","Intern 7 months,Currently Working",0.5833333333333334
+61,"MS office ( MS-Word, MS-Excel & MS-Power Point )• Full Stack Web Developer (MERN)","```python
+skills = [""MS office (MS-Word, MS-Excel & MS-Power Point)"", ""Full Stack Web Developer (MERN)""]
+```","['ms office (ms-word', 'ms-excel', 'ms-power point)', 'full stack web developer (mern)']",,0
+62,"HTML , CSS , SASS,Javascript,React JS,Node Js,MongoDB,MYSQL,PHP,AutoCAD","```python
+skills = [
+    ""HTML"",
+    ""CSS"",
+    ""SASS"",
+    ""JavaScript"",
+    ""React JS"",
+    ""Node JS"",
+    ""MongoDB"",
+    ""MySQL"",
+    ""PHP"",
+    ""AutoCAD"",
+]
+```","['html', 'css', 'sass', 'javascript', 'react js', 'node js', 'mongodb', 'mysql', 'php', 'autocad']","Fresher,Intern-3 Months",0.125
+63,"JavaScript,Node.js,Express.js,REST API development,Mongodb,React JS,GIT,Basic knowledge in HTML and CSS,Proficient in GIT version Control","```python
+skills = [
+    ""JavaScript"",
+    ""Node.js"",
+    ""Express.js"",
+    ""REST API development"",
+    ""MongoDB"",
+    ""React JS"",
+    ""GIT"",
+    ""HTML"",
+    ""CSS"",
+    ""GIT version Control"",
+]
+```","['javascript', 'node.js', 'express.js', 'rest api development', 'mongodb', 'react js', 'git', 'html', 'css', 'git version control']","Fresher,intern-6 months",0.5
+64,"HTML, CSS, Javascript, React and Node.js.,Git and GitHub,Bootstrap, Express and MongoDB.","```python
+skills = [
+    ""HTML"",
+    ""CSS"",
+    ""Javascript"",
+    ""React"",
+    ""Node.js"",
+    ""Git"",
+    ""GitHub"",
+    ""Bootstrap"",
+    ""Express"",
+    ""MongoDB"",
+]
+```","['html', 'css', 'javascript', 'react', 'node.js', 'git', 'github', 'bootstrap', 'express', 'mongodb']",Fresher,0.0
+65,"Languages: JavaScript, C Programming, HTML/CSS, C++Frameworks: React JS, Node JS, Tailwind CSS, Material-UI, Express JS, , Developer Tools: Git, AWS, Netlify, Render, VS Code, IntelliJ, Eclipse, Libraries: Axios, Redux, Redux-Toolkit, Socket io Databases: MongoDB","```python
+skills = [
+    ""JavaScript"",
+    ""C Programming"",
+    ""HTML/CSS"",
+    ""C++"",
+    ""React JS"",
+    ""Node JS"",
+    ""Tailwind CSS"",
+    ""Material-UI"",
+    ""Express JS"",
+    ""Git"",
+    ""AWS"",
+    ""Netlify"",
+    ""Render"",
+    ""VS Code"",
+    ""IntelliJ"",
+    ""Eclipse"",
+    ""Axios"",
+    ""Redux"",
+    ""Redux-Toolkit"",
+    ""Socket io"",
+    ""MongoDB"",
+]
+```","['javascript', 'c programming', 'html/css', 'c++', 'react js', 'node js', 'tailwind css', 'material-ui', 'express js', 'git', 'aws', 'netlify', 'render', 'vs code', 'intellij', 'eclipse', 'axios', 'redux', 'redux-toolkit', 'socket io', 'mongodb']",Fresher,0.0
+66,Node JS • My SQL• Adonis JS • GitHub• JavaScript • Angular JS(Basic)• MongoDB,"```python
+skills = [""Node JS"", ""MySQL"", ""Adonis JS"", ""GitHub"", ""JavaScript"", ""Angular JS (Basic)"", ""MongoDB""]
+```","['node js', 'mysql', 'adonis js', 'github', 'javascript', 'angular js (basic)', 'mongodb']",,0
+67,"Responsive UI, Design, HTML, CSS, Javascript , React.js,Node.js , Express.js, MongoDB , Mongoose, Bootstrap, Linux","```python
+skills = [
+    ""responsive ui"",
+    ""design"",
+    ""html"",
+    ""css"",
+    ""javascript"",
+    ""react.js"",
+    ""node.js"",
+    ""express.js"",
+    ""mongodb"",
+    ""mongoose"",
+    ""bootstrap"",
+    ""linux"",
+]
+```","['responsive ui', 'design', 'html', 'css', 'javascript', 'react.js', 'node.js', 'express.js', 'mongodb', 'mongoose', 'bootstrap', 'linux']",,0
+68,"Java Script,Node Js,Express Js,Mongo DB,HTML,CSS,Boot strap,Tail Wind, CSS,AWS,Nginx","```python
+skills = [""JavaScript"", ""Node.js"", ""Express.js"", ""MongoDB"", ""HTML"", ""CSS"", ""Bootstrap"", ""Tailwind CSS"", ""AWS"", ""Nginx""]
+```","['javascript', 'node.js', 'express.js', 'mongodb', 'html', 'css', 'bootstrap', 'tailwind css', 'aws', 'nginx']",1 yr,1.0
+69,"Next.js,Hositinger,MySQL,MongoDB,Bootstrap,Tailwind, CSS,React hooks,ReactJS,Node.js","```python
+skills = [
+    ""Next.js"",
+    ""Hosting"",
+    ""MySQL"",
+    ""MongoDB"",
+    ""Bootstrap"",
+    ""Tailwind CSS"",
+    ""CSS"",
+    ""React Hooks"",
+    ""ReactJS"",
+    ""Node.js"",
+]
+```","['next.js', 'hosting', 'mysql', 'mongodb', 'bootstrap', 'tailwind css', 'css', 'react hooks', 'reactjs', 'node.js']",3yrs,3.0
+70,HTML & CSS | Javascript | React | ReduxNode Js | Express Js | Mongodb | MysqlReactstrap | Data Structures And Algorithms Git |,"```python
+skills = [
+    ""HTML"",
+    ""CSS"",
+    ""JavaScript"",
+    ""React"",
+    ""Redux"",
+    ""Node.js"",
+    ""Express.js"",
+    ""MongoDB"",
+    ""MySQL"",
+    ""Reactstrap"",
+    ""Data Structures and Algorithms"",
+    ""Git"",
+]
+```","['html', 'css', 'javascript', 'react', 'redux', 'node.js', 'express.js', 'mongodb', 'mysql', 'reactstrap', 'data structures and algorithms', 'git']",1.5yrs,1.5
+71,1.java script 2.HTML 3.HTML&CSS4.DOM 5.Async programming 6.React7.Database 8.Mango DB 9.Node js,"```python
+skills = [
+    ""javascript"",
+    ""html"",
+    ""html&css"",
+    ""dom"",
+    ""async programming"",
+    ""react"",
+    ""database"",
+    ""mango db"",
+    ""node js"",
+]
+```","['javascript', 'html', 'html', 'css', 'dom', 'async programming', 'react', 'database', 'mango db', 'node js']",2yrs on IT Field,2.0
+72,"React js(front end),Node JS,CSS,Html,MySQL,Python,JavaScript,TypeScript","```python
+['react js', 'node js', 'css', 'html', 'mysql', 'python', 'javascript', 'typescript']
+```","['react js', 'node js', 'css', 'html', 'mysql', 'python', 'javascript', 'typescript']",1.5 yrs,1.5
+73,"HTML5, CSS,Tailwind CSS,Bootstrap,MongoDB,AJAX,JavaScript,GitHub,React,Redux,Node.js,SQL,Express.js","```python
+skills = [
+    ""HTML5"",
+    ""CSS"",
+    ""Tailwind CSS"",
+    ""Bootstrap"",
+    ""MongoDB"",
+    ""AJAX"",
+    ""JavaScript"",
+    ""GitHub"",
+    ""React"",
+    ""Redux"",
+    ""Node.js"",
+    ""SQL"",
+    ""Express.js"",
+]
+```","['html5', 'css', 'tailwind css', 'bootstrap', 'mongodb', 'ajax', 'javascript', 'github', 'react', 'redux', 'node.js', 'sql', 'express.js']",1 yr as trainee,1.0
+74,"Web Technologies: JavaScript, ES6, HTML5,CSS3, ReactJS, NodeJS, KoaJS, JSONDatabase: SQL ServerVersion Control Tools: GitHubMethodologies: Agile (Tool: JIRA)Repository: Bitbucket,C# Dotnet (Basics),PL/SQL(Basics),SharePoint,Embedded C,Verilog HDL","```python
+skills = [
+    ""JavaScript"",
+    ""ES6"",
+    ""HTML5"",
+    ""CSS3"",
+    ""ReactJS"",
+    ""NodeJS"",
+    ""KoaJS"",
+    ""JSON"",
+    ""SQL"",
+    ""GitHub"",
+    ""Agile (JIRA)"",
+    ""Bitbucket"",
+    ""C# Dotnet (Basics)"",
+    ""PL/SQL (Basics)"",
+    ""SharePoint"",
+    ""Embedded C"",
+    ""Verilog HDL"",
+]
+```","['javascript', 'es6', 'html5', 'css3', 'reactjs', 'nodejs', 'koajs', 'json', 'sql', 'github', 'agile (jira)', 'bitbucket', 'c# dotnet (basics)', 'pl/sql (basics)', 'sharepoint', 'embedded c', 'verilog hdl']",2 .5 yrs,2.5
+75,"Front End and UI/UX Design Using HTML , CSS,Javascript and Bootstrap Using Framework Angular andTypescript","```python
+['front end', 'ui/ux design', 'html', 'css', 'javascript', 'bootstrap', 'angular', 'typescript']
+```","['front end', 'ui/ux design', 'html', 'css', 'javascript', 'bootstrap', 'angular', 'typescript']",,0
+76,"MySOL, MongoDB,PYTHON - DJANGO,PHP - LARAVEL,NODE JS AND REACT JS","```python
+skills = [
+    ""MySQL"",
+    ""MongoDB"",
+    ""Python - Django"",
+    ""PHP - Laravel"",
+    ""Node.js"",
+    ""React.js"",
+]
+```","['mysql', 'mongodb', 'python - django', 'php - laravel', 'node.js', 'react.js']",,0
+77,"HTML5 CSS3 BOOTSTRAP Tailwind CssJavascript (*es6,es7,es8,es9,es10,es11,es12)React.js(Redux,Routerdom,React Hooks,antd,Third partylibraries integration)*Nodejs Express js Mongodb Mysql GitupGitlab Postman(for api testing) Next js(basic)React native (basic)","```python
+skills = [
+    ""HTML5"",
+    ""CSS3"",
+    ""BOOTSTRAP"",
+    ""Tailwind Css"",
+    ""Javascript (*es6,es7,es8,es9,es10,es11,es12)"",
+    ""React.js(Redux,Routerdom,React Hooks,antd,Third partylibraries integration)"",
+    ""Nodejs"",
+    ""Express js"",
+    ""Mongodb"",
+    ""Mysql"",
+    ""Gitup"",
+    ""Gitlab"",
+    ""Postman(for api testing)"",
+    ""Next js(basic)"",
+    ""React native (basic)""
+]
+```","['html5', 'css3', 'bootstrap', 'tailwind css', 'javascript (*es6', 'es7', 'es8', 'es9', 'es10', 'es11', 'es12)', 'react.js(redux', 'routerdom', 'react hooks', 'antd', 'third partylibraries integration)', 'nodejs', 'express js', 'mongodb', 'mysql', 'gitup', 'gitlab', 'postman(for api testing)', 'next js(basic)', 'react native (basic)']",,0
+78,"HTML,CSS,Java Script,React, and Node Js,BootStrap,Express,Mongo DB,Git,GitHub","```python
+skills = [""HTML"", ""CSS"", ""JavaScript"", ""React"", ""Node.js"", ""Bootstrap"", ""Express"", ""MongoDB"", ""Git"", ""GitHub""]
+```","['html', 'css', 'javascript', 'react', 'node.js', 'bootstrap', 'express', 'mongodb', 'git', 'github']",,0
+79,"Mysq,MongoDB,,React Js,Express JS,Node JS.","```python
+['MySQL', 'MongoDB', 'React.js', 'Express.js', 'Node.js']
+```","['mysql', 'mongodb', 'react.js', 'express.js', 'node.js']",1.5 yrs,1.5
+80,"NodeJs, Typescript, ExpressJs, MongoDB, PostgreSQL andMySQL","```python
+skills = [
+    ""Node.js"",
+    ""TypeScript"",
+    ""Express.js"",
+    ""MongoDB"",
+    ""PostgreSQL"",
+    ""MySQL"",
+]
+```","['node.js', 'typescript', 'express.js', 'mongodb', 'postgresql', 'mysql']",,0
+81,• Java (1 year)• Spring Boot (1 year)• Python (1 year)• Flask (Less than 1 year)• APIs (1 year)• OOP (1 year)• Back-end development (1 year)• MySQL• NoSQL (1 year),"```python
+skills = [
+    ""Java"",
+    ""Spring Boot"",
+    ""Python"",
+    ""Flask"",
+    ""APIs"",
+    ""OOP"",
+    ""Back-end development"",
+    ""MySQL"",
+    ""NoSQL"",
+]
+```","['java', 'spring boot', 'python', 'flask', 'apis', 'oop', 'back-end development', 'mysql', 'nosql']",Fresher,0.0
+82,1. HTML2. CSS3. JAVASCRIPT4. SCSS5. TYPESCRIPT6. REACT JS7. REDUX(TOOLKIT)8. EXPRESS JS9. MONGODB10. MONGOOSE,"```python
+skills = [
+    ""HTML"",
+    ""CSS"",
+    ""JavaScript"",
+    ""SCSS"",
+    ""TypeScript"",
+    ""React JS"",
+    ""Redux"",
+    ""Express JS"",
+    ""MongoDB"",
+    ""Mongoose"",
+]
+```","['html', 'css', 'javascript', 'scss', 'typescript', 'react js', 'redux', 'express js', 'mongodb', 'mongoose']",1 yr,1.0
+83,"Node.Js, React.Js, JavaScript, HTML,CSS,Framework:Express.Js, Database: MySQL,MongoDB 
+, Platforms: Ubuntu, Microsoft Windows,Linux Version Control: Git,Bitbucket,Tools Used: Sublime, Notepad++","```python
+skills = [
+    ""Node.js"",
+    ""React.js"",
+    ""JavaScript"",
+    ""HTML"",
+    ""CSS"",
+    ""Express.js"",
+    ""MySQL"",
+    ""MongoDB"",
+    ""Ubuntu"",
+    ""Microsoft Windows"",
+    ""Linux"",
+    ""Git"",
+    ""Bitbucket"",
+    ""Sublime"",
+    ""Notepad++"",
+]
+```","['node.js', 'react.js', 'javascript', 'html', 'css', 'express.js', 'mysql', 'mongodb', 'ubuntu', 'microsoft windows', 'linux', 'git', 'bitbucket', 'sublime', 'notepad++']",3.4years(2years MERN),3.4
+84,"MERN Stack Development: MongoDB | Express.js | React.js | Node.js, Programming Languages: JavaScript 
+| Frontend Development: React JS | HTML5 | CSS3 | Bootstrap | Redux | ES6 | JSX | React 
+Router | Responsive web development | Virtual DOM Backend Development: Node.js | Express.js | API design | Databases: MySQL | MongoDB | Version Control & Collaboration: Git | GitHub | Bitbucket | Web Design & Development:Web Development | REST API | JSON | HTTP | Code Quality: ESLint | Prettie","```python
+skills = [
+    ""MERN Stack Development"",
+    ""JavaScript"",
+    ""Frontend Development"",
+    ""React JS"",
+    ""HTML5"",
+    ""CSS3"",
+    ""Bootstrap"",
+    ""Redux"",
+    ""ES6"",
+    ""JSX"",
+    ""React Router"",
+    ""Responsive web development"",
+    ""Virtual DOM"",
+    ""Backend Development"",
+    ""Node.js"",
+    ""Express.js"",
+    ""API design"",
+    ""Databases"",
+    ""MySQL"",
+    ""MongoDB"",
+    ""Version Control & Collaboration"",
+    ""Git"",
+    ""GitHub"",
+    ""Bitbucket"",
+    ""Web Design & Development"",
+    ""REST API"",
+    ""JSON"",
+    ""HTTP"",
+    ""Code Quality"",
+    ""ESLint"",
+    ""Prettier"",
+]
+```","['mern stack development', 'javascript', 'frontend development', 'react js', 'html5', 'css3', 'bootstrap', 'redux', 'es6', 'jsx', 'react router', 'responsive web development', 'virtual dom', 'backend development', 'node.js', 'express.js', 'api design', 'databases', 'mysql', 'mongodb', 'version control', 'collaboration', 'git', 'github', 'bitbucket', 'web design', 'development', 'rest api', 'json', 'http', 'code quality', 'eslint', 'prettier']",2years,2.0
+85,"HTML 5, CSS 3, JavaScript, TypeScript, Node Js, Vue Js. Bootstrap, Express JS, ReactJS , React storybook, JIRA, Balsamiq, Figma,Git/Gerrit, Github,Git/Gerrit, Github,MongoDB,Wordpress","```python
+skills = [
+    ""HTML 5"",
+    ""CSS 3"",
+    ""JavaScript"",
+    ""TypeScript"",
+    ""Node.js"",
+    ""Vue.js"",
+    ""Bootstrap"",
+    ""Express.js"",
+    ""React.js"",
+    ""React Storybook"",
+    ""JIRA"",
+    ""Balsamiq"",
+    ""Figma"",
+    ""Git/Gerrit"",
+    ""GitHub"",
+    ""MongoDB"",
+    ""WordPress"",
+]
+```","['html 5', 'css 3', 'javascript', 'typescript', 'node.js', 'vue.js', 'bootstrap', 'express.js', 'react.js', 'react storybook', 'jira', 'balsamiq', 'figma', 'git/gerrit', 'github', 'mongodb', 'wordpress']",1.9years,1.9
+86,"HTML&CSS, JAVASCRIPT, REACT.JS, EXPRESS.JS, NODE.JS","```python
+skills = [""HTML"", ""CSS"", ""JavaScript"", ""React.js"", ""Express.js"", ""Node.js""]
+```","['html', 'css', 'javascript', 'react.js', 'express.js', 'node.js']",2.5 years,2.5
